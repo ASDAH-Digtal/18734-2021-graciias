@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T21:43:39.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="cKdhWBKkpvHm2EVqhUvf" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T21:45:12.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="uW8ZJc8Erk-QVemd1tGP" version="14.9.5" type="github">
   <diagram id="93dxwlfZRrIdrOYqA7rs" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iWDhvRQC-wRepR-PT3IW-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iWDhvRQC-wRepR-PT3IW-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fillColor=#E0EEFC;" vertex="1" parent="1">
           <mxGeometry width="850" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="iWDhvRQC-wRepR-PT3IW-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="iWDhvRQC-wRepR-PT3IW-1">
@@ -16,7 +16,7 @@
         <mxCell id="iWDhvRQC-wRepR-PT3IW-4" value="D5E8D4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iWDhvRQC-wRepR-PT3IW-1">
           <mxGeometry x="650" y="270" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iWDhvRQC-wRepR-PT3IW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="iWDhvRQC-wRepR-PT3IW-1">
+        <mxCell id="iWDhvRQC-wRepR-PT3IW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="iWDhvRQC-wRepR-PT3IW-1">
           <mxGeometry x="10" y="120" width="830" height="110" as="geometry" />
         </mxCell>
       </root>
