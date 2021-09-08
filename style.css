@@ -11,11 +11,15 @@ Date:
     "header header header"
     "side1 section1 section1"
     "section2 videoSection side2"
+    "references references references"
     "footer footer footer";
 }
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #A9CFB1
 }
 
 .main{ /*DO NOT REMOVE*/
@@ -24,6 +28,7 @@ Date:
 
 .side1{ /*DO NOT REMOVE*/
     grid-area: side1;
+  
 }
 
 .side2{ /*DO NOT REMOVE*/
@@ -32,16 +37,30 @@ Date:
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45%;
+    background-color: #EAFCF2;
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
+    font-size: 50%;
+    background-color: #EAFCF2;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
     grid-area: videoSection;
 }
 
+.references{
+  grid-area: references;
+}
+
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
+}
+
+img{
+ width: 110%;
 }
