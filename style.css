@@ -17,9 +17,11 @@ Date:
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Special Elite', Courier, monospace;
     text-align: center;
-    background-color: #A9CFB1
+    background-color: #87AE77;
+    font-size: 100%;
+    padding: 50px
 }
 
 .main{ /*DO NOT REMOVE*/
@@ -38,14 +40,15 @@ Date:
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 45%;
-    background-color: #EAFCF2;
+    font-size: 100%;
+    background-color: #D1EDD7;
+    padding: 60px
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
-    font-size: 50%;
-    background-color: #EAFCF2;
+    font-size: 110%;
+    background-color: #A4C08D;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -55,6 +58,9 @@ Date:
 
 .references{
   grid-area: references;
+  background-color: #D1EDD7;
+  padding: 30px;
+  font-family: 'Courier New', Courier, monospace
 }
 
 .footer{ /*DO NOT REMOVE*/
@@ -62,5 +68,6 @@ Date:
 }
 
 img{
- width: 110%;
+ width: 100%;
+ height: 100%
 }
