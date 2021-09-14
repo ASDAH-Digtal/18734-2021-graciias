@@ -17,7 +17,7 @@ Date:
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
-    font-family: 'Special Elite', Courier, monospace;
+    font-family: 'Courier', Courier, monospace;
     text-align: center;
     background-color: #87AE77;
     font-size: 100%;
@@ -65,6 +65,9 @@ Date:
 
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
+    background-color: #87AE77;
+    padding: 30px;
+    font-family: 'Courier New', COurier, monospace
 }
 
 img{
